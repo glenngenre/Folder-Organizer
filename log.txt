@@ -1,0 +1,58 @@
+2023-08-29 01:41:41 >> Log file created
+2023-08-29 01:41:41 >> Folder path to be organized: D:/Documents/School Stuff/BSCS401/PPC/Memes
+2023-08-29 01:42:42 >> Folder path to be organized: D:/Downloads
+2023-08-29 01:42:42 >> Moved: New Project (1).pdf to D:/Downloads\Documents
+2023-08-29 01:42:42 >> Moved: New Project (2).pdf to D:/Downloads\Documents
+2023-08-29 01:42:42 >> Moved: New Project (3).pdf to D:/Downloads\Documents
+2023-08-29 01:42:42 >> Moved: New Project.pdf to D:/Downloads\Documents
+2023-08-29 01:42:42 >> Moved: Protected - MAMANAO, MA. GLYZA IGNACIO.pdf to D:/Downloads\Documents
+2023-08-29 01:42:42 >> Moved: Scan2023-08-28_215537_001.pdf to D:/Downloads\Documents
+2023-08-29 01:42:42 >> Moved: imbitasyon.png to D:/Downloads\Images
+2023-08-29 01:42:42 >> Moved: invitation roses and candles.png to D:/Downloads\Images
+2023-08-29 01:42:42 >> Moved: invitation.png to D:/Downloads\Images
+2023-08-29 01:42:42 >> Moved: received_1009396700402332.jpeg to D:/Downloads\Images
+2023-08-29 01:42:42 >> Moved: received_265647233086233_1.jpeg to D:/Downloads\Images
+2023-08-29 01:42:42 >> Moved: received_277435698370438.jpeg to D:/Downloads\Images
+2023-08-29 01:42:42 >> Moved: received_286379694102611_1.jpeg to D:/Downloads\Images
+2023-08-29 01:42:43 >> Moved: tkdesigner-1.0.7.tar.gz to D:/Downloads\Compressed
+2023-08-29 01:42:43 >> Moved: wxGlade-1.0.5.zip to D:/Downloads\Compressed
+2023-08-29 01:42:43 >> Moved: BlueStacks10Installer_10.3.10.1008_native_289de82b720bb4feb44b9e859acc6b16_MzsxNSwwOzUsMTsxNSw0OzE1.exe to D:/Downloads\Executables and Installers
+2023-08-29 01:48:35 >> Folder path to be organized: D:/Downloads
+2023-08-29 01:48:35 >> Moved: imbitasyon.png to D:/Downloads\Images
+2023-08-29 01:48:46 >> Folder path to be organized: D:/Downloads
+2023-08-29 01:48:46 >> Moved: asd.png to D:/Downloads\Images
+2023-08-29 03:06:06 >> Folder path to be organized: D:\AXIE
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_ATD-Form For Final Pay.doc to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_Pesonet Authorization Form.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_Pesonet Authorization Form.pdf to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_PESONET.pdf to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_PESONET.xlsx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_WAIVERQUITCLAIMpage-001.pdf to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_WAIVERQUITCLAIMpage-002.pdf to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Book1.xlsx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Book2 ulet.xlsx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Book2.xlsx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Charlbee Fajardo.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Mamanao, Glenliveth I - Assignment #1.pdf to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: MONTHLY TRACKER.xlsx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: OR CR.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: PC SHOP.xlsx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: PNS na may explanation kuno.pdf to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Print 1.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Print.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: Readmission.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: script.docx to D:\AXIE\Documents
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_Signature.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: 1058054_GlenlivethMamanao_BldgFUPTechnohub_ValidID.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: 230e482aa48d75d1e8a4028516747e65.png to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: 60622289_2465504273494658_7198635225574801408_n.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: 85c85721ea75fdeeb304a275034dd636.png to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: 90828778_352525205704042_1920457238716088320_n.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: Mamanao, Glenliveth - Activity 2.png to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: Mamanao_Exam.png to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: pirma kuya.png to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: Print2.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: Rizalina Pascual.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: Sickness.jpeg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: template.jpg to D:\AXIE\Images
+2023-08-29 03:06:06 >> Moved: unknown.png to D:\AXIE\Images

@@ -1,0 +1,119 @@
+# This is the configuration file for the program
+
+# The log file path relative to the program
+LogFileName: "log.txt"
+
+# Should empty folders created by the program be deleted?
+DeleteEmptyFolders: true
+
+# Should the program delete files that are not modified for a certain amount of time?
+DeleteOldFiles: false
+
+# If DeleteOldFiles is true, then the program will delete files that are not modified for this amount of time
+# The format is: [number][unit]
+# Units: s, m, h, d, w, M, y
+# Example: 1d = 1 day
+DeleteOldFilesTime: 1y
+
+# File types and their extensions
+FileTypes:
+  Documents:
+    - .pdf
+    - .docx
+    - .txt
+    - .doc
+    - .pptx
+    - .ppt
+    - .xlsx
+    - .xls
+    - .csv
+    - .rtf
+  Images:
+    - .jpg
+    - .jpeg
+    - .png
+    - .gif
+    - .bmp
+    - .svg
+    - .ico
+    - .psd
+    - .ai
+    - .raw
+    - .tiff
+    - .tif
+    - .jfif
+    - .webp
+  Audio:
+    - .mp3
+    - .wav
+    - .ogg
+    - .m4a
+    - .flac
+    - .aac
+    - .opus
+  Video:
+    - .mp4
+    - .mov
+    - .avi
+    - .flv
+    - .mkv
+    - .webm
+    - .wmv
+    - .m4v
+  Compressed:
+    - .zip
+    - .rar
+    - .tar
+    - .gz
+    - .7z
+    - .xz
+    - .bz2
+    - .lzma
+    - .z
+    - .lz
+  Code:
+    - .py
+    - .js
+    - .html
+    - .css
+    - .c
+    - .cpp
+    - .java
+    - .json
+    - .xml
+    - .db
+    - .yaml
+    - .yml
+    - .sql
+    - .log
+    - .md
+    - .gd
+  Font:
+    - .ttf
+    - .otf
+  Executables and Installers:
+    - .exe
+    - .msi
+    - .apk
+    - .bat
+    - .sh
+    - .deb
+  Shortcuts:
+    - .lnk
+    - .url
+  Torrent:
+    - .torrent
+  OSU!:
+    - .osz
+  WEB:
+    - .crdownload
+    - .part
+    - .htm
+  Minecraft:
+    - .mcworld
+    - .mcpack
+    - .mcaddon
+    - .schem
+    - .mctemplate
+    - .schematic   
+                
