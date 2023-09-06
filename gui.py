@@ -9,7 +9,7 @@ from main import organize_folder
 PROJECT_DIR = Path(__file__).parent
 
 # get the assets directory path
-ASSETS_PATH = PROJECT_DIR / r"D:\Documents\Code\Folder Organizer\assets"
+ASSETS_PATH = PROJECT_DIR / ".\\assets"
 
 
 def relative_to_assets(path: str) -> Path:

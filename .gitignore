@@ -1,5 +1,2 @@
 log.txt
-__pycache__/config_utils.cpython-310.pyc
-__pycache__/File.cpython-310.pyc
-__pycache__/FileManager.cpython-310.pyc
-__pycache__/main.cpython-310.pyc
+__pycache__
