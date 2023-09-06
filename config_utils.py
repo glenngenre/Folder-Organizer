@@ -35,6 +35,9 @@ LogFileName: "log.txt"
 # Should empty folders created by the program be deleted?
 DeleteEmptyFolders: true
 
+# Should empty folders not created by the program be deleted?
+DeleteEmptyFoldersNotCreated: true
+
 # Should the program delete files that are not modified for a certain amount of time?
 DeleteOldFiles: false
 
@@ -176,6 +179,9 @@ def get_int(config, key) -> int:
 
 
 def get_bool(config, key) -> bool:
+    if key not in config:
+        raise KeyError(f"Key '{key}' not found in the configuration dictionary.")
+
     if not isinstance(config[key], bool):
         raise TypeError(f"Expected {key} to be a boolean, but got {type(config[key])}")
     return config[key]

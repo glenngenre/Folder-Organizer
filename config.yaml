@@ -6,6 +6,9 @@ LogFileName: "log.txt"
 # Should empty folders created by the program be deleted?
 DeleteEmptyFolders: true
 
+# Should empty folders not created by the program be deleted?
+DeleteEmptyFoldersNotCreated: true
+
 # Should the program delete files that are not modified for a certain amount of time?
 DeleteOldFiles: false
 

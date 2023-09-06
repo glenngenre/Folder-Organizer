@@ -56,3 +56,327 @@
 2023-08-29 03:06:06 >> Moved: Sickness.jpeg to D:\AXIE\Images
 2023-08-29 03:06:06 >> Moved: template.jpg to D:\AXIE\Images
 2023-08-29 03:06:06 >> Moved: unknown.png to D:\AXIE\Images
+2023-09-05 20:13:51 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:14:32 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:15:30 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:15:43 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:16:02 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:16:20 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:16:38 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:17:53 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:18:43 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\IFM
+2023-09-05 20:18:43 >> Moved: 03 ACT 1 mamanao.docx to D:\Documents\School Stuff\BSCS401\IFM\.docx
+2023-09-05 20:18:43 >> Moved: 03 ACT 1 mamanao.pdf to D:\Documents\School Stuff\BSCS401\IFM\.pdf
+2023-09-05 20:18:43 >> Moved: heh.txt to D:\Documents\School Stuff\BSCS401\IFM\.txt
+2023-09-05 20:18:43 >> Moved: sql operators.docx to D:\Documents\School Stuff\BSCS401\IFM\.docx
+2023-09-05 20:18:43 >> Moved: sql operators.md to D:\Documents\School Stuff\BSCS401\IFM\.md
+2023-09-05 20:18:43 >> Moved: sql operators.pdf to D:\Documents\School Stuff\BSCS401\IFM\.pdf
+2023-09-05 20:18:43 >> Moved: TP_Mamanao_Glenn_DB_CompanyX.png to D:\Documents\School Stuff\BSCS401\IFM\.png
+2023-09-05 20:19:18 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\CSA
+2023-09-05 20:19:18 >> Moved: 03 Seatwork 1.docx.pdf to D:\Documents\School Stuff\BSCS401\CSA\.pdf
+2023-09-05 20:19:18 >> Moved: 03_Seatwork_1.pdf to D:\Documents\School Stuff\BSCS401\CSA\.pdf
+2023-09-05 20:19:18 >> Moved: 06_Handout_1(5).pdf to D:\Documents\School Stuff\BSCS401\CSA\.pdf
+2023-09-05 20:19:18 >> Moved: 08_tp_1.pdf to D:\Documents\School Stuff\BSCS401\CSA\.pdf
+2023-09-05 20:19:18 >> Moved: 341975698_636384744485030_3512753755288201256_n.png to D:\Documents\School Stuff\BSCS401\CSA\.png
+2023-09-05 20:19:18 >> Moved: 343923275_180496904934166_4458246457314846949_n.jpg to D:\Documents\School Stuff\BSCS401\CSA\.jpg
+2023-09-05 20:19:18 >> Moved: 345164304_3608016666098317_5815107389310111138_n.jpg to D:\Documents\School Stuff\BSCS401\CSA\.jpg
+2023-09-05 20:19:18 >> Moved: csa ptask.pdf to D:\Documents\School Stuff\BSCS401\CSA\.pdf
+2023-09-05 20:19:18 >> Moved: FILE.docx to D:\Documents\School Stuff\BSCS401\CSA\.docx
+2023-09-05 20:19:18 >> Moved: FILE.pdf to D:\Documents\School Stuff\BSCS401\CSA\.pdf
+2023-09-05 20:19:41 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:19:41 >> Moved: 01_Handout_1(23) (1).pdf to D:\Downloads\today\.pdf
+2023-09-05 20:19:41 >> Moved: 309348409_5493858607376490_7660828875203276720_n.mp4 to D:\Downloads\today\.mp4
+2023-09-05 20:19:41 >> Moved: map (1).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (2).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (3).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (3)_clipdrop-enhance.png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (4).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (5).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (6).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (7).png to D:\Downloads\today\.png
+2023-09-05 20:19:41 >> Moved: map (8).png to D:\Downloads\today\.png
+2023-09-05 20:22:34 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:22:34 >> Moved: map (1).png to D:\Downloads\today\.png
+2023-09-05 20:22:47 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:22:47 >> Moved: map (1).png to D:\Downloads\today\.png
+2023-09-05 20:23:49 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:42:29 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:42:48 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:43:40 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:44:17 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:46:06 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:46:30 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:47:08 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:48:37 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:49:44 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:50:14 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:50:32 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:51:57 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:52:47 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:53:04 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:53:30 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:54:21 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 20:55:05 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 21:51:56 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 22:50:49 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 22:52:28 >> Folder path to be organized: D:\Downloads\today
+2023-09-05 22:52:28 >> Moved: 01_Handout_1(23) (1).pdf to D:\Downloads\today\Documents
+2023-09-05 22:52:28 >> Moved: 309348409_5493858607376490_7660828875203276720_n.mp4 to D:\Downloads\today\Video
+2023-09-05 22:52:28 >> Moved: map (1).png to D:\Downloads\today\Images
+2023-09-05 22:52:28 >> Moved: map (2).png to D:\Downloads\today\Images
+2023-09-05 22:52:28 >> Moved: map (3).png to D:\Downloads\today\Images
+2023-09-05 22:52:28 >> Moved: map (3)_clipdrop-enhance.png to D:\Downloads\today\Images
+2023-09-05 22:52:28 >> Moved: map (4).png to D:\Downloads\today\Images
+2023-09-05 22:52:28 >> Moved: map (5).png to D:\Downloads\today\Images
+2023-09-05 22:52:28 >> Moved: map (6).png to D:\Downloads\today\Images
+2023-09-05 22:52:29 >> Moved: map (7).png to D:\Downloads\today\Images
+2023-09-05 22:52:29 >> Moved: map (8).png to D:\Downloads\today\Images
+2023-09-06 18:10:44 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:12:05 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:12:05 >> File already exists: act 1.docx, renaming to "act 1.docx (1)"
+2023-09-06 18:12:05 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:12:05 >> Moved: ~WRL0757.tmp to D:\Documents\School Stuff\BSCS401\Ethics\None
+2023-09-06 18:15:03 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:15:04 >> File already exists: act 1.docx, renaming to "act 1.docx (1).docx"
+2023-09-06 18:15:04 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:15:33 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:15:33 >> File already exists: act 1.docx, renaming to "act 1.docx (1).docx"
+2023-09-06 18:19:48 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:19:48 >> File already exists: act 1.docx, renaming to "act 1.docx (1).docx"
+2023-09-06 18:19:48 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:26:57 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:26:57 >> File already exists: act 1.docx, renaming to "act 1.docx (1).docx"
+2023-09-06 18:26:57 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:28:16 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:28:16 >> File already exists: act 1.docx, renaming to "act 1.docx (1).docx"
+2023-09-06 18:28:16 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:29:03 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:29:03 >> File already exists: act 1.docx, renaming to "act 1.docx (1).docx"
+2023-09-06 18:29:03 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:34:27 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:34:27 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:36:01 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:36:01 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:39:45 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:39:45 >> File already exists: act 1.docx, renaming to act 1 (4).docx
+2023-09-06 18:42:20 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:42:20 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:42:58 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:42:58 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:43:30 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:43:30 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:44:48 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:44:48 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:45:03 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:45:03 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:49:51 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:49:51 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:49:51 >> Moved: act 1 (5).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:50:16 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:50:16 >> Moved: act 1 (1).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: act 1 (2).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: act 1 (3).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: act 1 (4).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: act 2.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: act 3.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Barbie PowerPoint Template.pptx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Cherry Picked Content Unraveling Emotional Effects in Social Media.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Ethical unethical moral immoral legal illegal.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Ethical unethical moral immoral legal illegal.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Group 3 Members.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: How do you think your community influences your behavior.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: How do you think your community influences your behavior.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: How does culture affect the behavior of the people.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: How does culture affect the behavior of the people.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Moral Act.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Moral Act.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Present three.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Present three.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Recall some of your defining moments in the formation of your moral character.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Recall some of your defining moments in the formation of your moral character.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: S Korea.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: sabi ko na barbie eh.pptx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Seminar cedrick.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: Seminar cedrick.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: seminar.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:16 >> Moved: ~$erry Picked Content Unraveling Emotional Effects in Social Media.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents\Documents
+2023-09-06 18:50:40 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:50:40 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:50:50 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:50:51 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:51:33 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:51:33 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:51:33 >> Moved: act 1 (5).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:51:58 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:51:58 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:51:58 >> Moved: act 1 (5).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 18:53:59 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:53:59 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:55:58 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 18:55:59 >> File already exists: act 1.docx, renaming to act 1 (5).docx
+2023-09-06 18:55:59 >> Moved: act 1 (5).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:31:01 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:31:23 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:31:23 >> File already exists: act 1.docx, renaming to act 1 (6).docx
+2023-09-06 19:31:23 >> Moved: act 1 (6).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:32:06 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:32:06 >> File already exists: act 1.docx, renaming to act 1 (7).docx
+2023-09-06 19:32:06 >> Moved: act 1 (7).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:35:05 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:35:55 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:35:55 >> File already exists: act 1 (6).docx, renaming to act 1 (6) (1).docx
+2023-09-06 19:35:55 >> Moved: act 1 (6) (1).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:37:17 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:37:17 >> File already exists: act 1 (7).docx, renaming to act 1 (7) (1).docx
+2023-09-06 19:37:17 >> Moved: act 1 (7) (1).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:37:17 >> File already exists: act 1.docx, renaming to act 1 (8).docx
+2023-09-06 19:37:17 >> Moved: act 1 (8).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:37:17 >> File already exists: act 2.docx, renaming to act 2 (1).docx
+2023-09-06 19:37:17 >> Moved: act 2 (1).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:37:46 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:38:00 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:38:53 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:39:07 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:39:07 >> File already exists: act 1.docx, renaming to act 1 (2).docx
+2023-09-06 19:39:07 >> Moved: act 1 (2).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:40:31 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 19:40:31 >> File already exists: act 1.docx, renaming to act 1 (1).docx
+2023-09-06 19:40:31 >> Moved: act 1 (1).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 19:40:40 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:12:59 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:12:59 >> Moved:  to D:\Documents\School Stuff\BSCS401\Ethics\None
+2023-09-06 21:13:45 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:13:45 >> Moved:  to D:\Documents\School Stuff\BSCS401\Ethics\None
+2023-09-06 21:24:24 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:24:24 >> File already exists: act 1.docx, renaming to act 1 (2).docx
+2023-09-06 21:24:24 >> Moved: act 1 (2).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:25:34 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:26:29 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:26:44 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:27:26 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:27:26 >> Deleted: D:\Documents\School Stuff\BSCS401\Ethics\Minecraft
+2023-09-06 21:27:26 >> Deleted: D:\Documents\School Stuff\BSCS401\Ethics\uiasd
+2023-09-06 21:27:53 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:28:07 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:29:01 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:29:01 >> Moved: act 1 (1).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:01 >> Moved: act 1 (2).docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:01 >> Moved: act 1.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:01 >> Moved: act 2.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:01 >> Moved: act 3.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:01 >> Moved: Barbie PowerPoint Template.pptx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:01 >> Moved: BusinessEthics.mp4 to D:\Documents\School Stuff\BSCS401\Ethics\Video
+2023-09-06 21:29:02 >> Moved: Cherry Picked Content Unraveling Emotional Effects in Social Media.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Ethical unethical moral immoral legal illegal.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Ethical unethical moral immoral legal illegal.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Group 3 Members.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: How do you think your community influences your behavior.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: How do you think your community influences your behavior.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: How does culture affect the behavior of the people.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: How does culture affect the behavior of the people.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Moral Act.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Moral Act.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Present three.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Present three.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Recall some of your defining moments in the formation of your moral character.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Recall some of your defining moments in the formation of your moral character.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: S Korea.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: sabi ko na barbie eh.pptx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Seminar cedrick.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: Seminar cedrick.pdf to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: seminar.docx to D:\Documents\School Stuff\BSCS401\Ethics\Documents
+2023-09-06 21:29:02 >> Moved: tapos na puu.png to D:\Documents\School Stuff\BSCS401\Ethics\Images
+2023-09-06 21:29:18 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:29:18 >> Moved: server (1).properties to D:\Documents\School Stuff\BSCS401\Ethics\None
+2023-09-06 21:30:39 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:30:39 >> Moved: server (1).properties to D:\Documents\School Stuff\BSCS401\Ethics\None
+2023-09-06 21:31:45 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:33:19 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:40:07 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:40:36 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-06 21:44:06 >> Folder path to be organized: D:\Documents\School Stuff\BSCS401\Ethics
+2023-09-07 00:26:54 >> Folder path to be organized: C:\Users\Genre\Desktop\Genre
+2023-09-07 00:26:54 >> Moved: 13 pics.psd to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: bulaynded.mp3 to C:\Users\Genre\Desktop\Genre\Audio
+2023-09-07 00:26:54 >> Moved: bulaynded.mp4 to C:\Users\Genre\Desktop\Genre\Video
+2023-09-07 00:26:54 >> Moved: depositphotos_138436370-stock-photo-diverse-group-of-people-talking.jpg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: DISTORTEDMINDSFINAL.png to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: graphicPoster.jpg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: Luzano.jpg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: med-01688.pdf to C:\Users\Genre\Desktop\Genre\Documents
+2023-09-07 00:26:54 >> Moved: Medical Records.jpg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: Microsoft Word - yourfonts_template_letter.docx.pdf to C:\Users\Genre\Desktop\Genre\Documents
+2023-09-07 00:26:54 >> Moved: New Project (6).jpg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: pexels-photo-1245066.jpeg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: pexels-photo-518485.jpeg to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> Moved: raf.pdf to C:\Users\Genre\Desktop\Genre\Documents
+2023-09-07 00:26:54 >> Moved: Scan2023-02-12_190553-removebg-preview.png to C:\Users\Genre\Desktop\Genre\Images
+2023-09-07 00:26:54 >> 
+--- Organizing complete! ---
+Files moved: 0
+Files deleted: 0
+Files renamed: 0
+Megabytes moved: 0
+----------------------------
+2023-09-07 00:30:02 >> Folder path to be organized: D:\Downloads\DUNKIN
+2023-09-07 00:30:02 >> Moved: 13.gif to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:02 >> Moved: bn.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: cv.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: cvv.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: donuts.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: gf.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: hgg.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: home.html to D:\Downloads\DUNKIN\Code
+2023-09-07 00:30:03 >> Moved: imformation.html to D:\Downloads\DUNKIN\Code
+2023-09-07 00:30:03 >> Moved: iu.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: kj.jfif to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: mn.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: nm.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: photogallery.html to D:\Downloads\DUNKIN\Code
+2023-09-07 00:30:03 >> Moved: qqqq.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: qwe.jfif to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: qweqweqwe.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: rt.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: uy.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> Moved: vb.jpg to D:\Downloads\DUNKIN\Images
+2023-09-07 00:30:03 >> 
+--- Organizing complete! ---
+Files moved: 1
+Files deleted: 0
+Files renamed: 0
+Megabytes moved: 0.032297
+----------------------------
+2023-09-07 00:32:47 >> Folder path to be organized: D:\Downloads\DUNKIN
+2023-09-07 00:32:47 >> Deleted: D:\Downloads\DUNKIN\asdasd
+2023-09-07 00:32:53 >> Folder path to be organized: D:\Downloads\DUNKIN
+2023-09-07 00:37:30 >> Folder path to be organized: C:/Users/Genre/Downloads
+2023-09-07 00:37:30 >> Moved: 371122449_978916846511251_2100042748514443327_n.jpg to C:/Users/Genre/Downloads\Images
+2023-09-07 00:37:30 >> Moved: 371309549_220249314026508_4162544375967506427_n.jpg to C:/Users/Genre/Downloads\Images
+2023-09-07 00:37:30 >> Moved: 371364494_664166115642898_1899487054729450695_n.jpg to C:/Users/Genre/Downloads\Images
+2023-09-07 00:37:30 >> Moved: 371969721_644918507771641_8834059224742514214_n.jpg to C:/Users/Genre/Downloads\Images
+2023-09-07 00:37:30 >> Moved: rn_image_picker_lib_temp_aff2a46c-68a8-43c0-88f7-a8bfa4eb2f2b.jpg to C:/Users/Genre/Downloads\Images
+2023-09-07 00:37:30 >> Moved: Snapinsta.app_video_365632988_594921462849928_8368546154442757014_n.mp4 to C:/Users/Genre/Downloads\Video
+2023-09-07 00:37:30 >> Moved: tleass.docx to C:/Users/Genre/Downloads\Documents
+2023-09-07 00:37:30 >> Moved: Untitled-document.pdf to C:/Users/Genre/Downloads\Documents
+2023-09-07 00:37:30 >> Deleted: C:/Users/Genre/Downloads\Code
+2023-09-07 00:37:30 >> Deleted: C:/Users/Genre/Downloads\Font
+2023-09-07 00:37:30 >> Deleted: C:/Users/Genre/Downloads\Shortcuts
+2023-09-07 00:37:30 >> Deleted: C:/Users/Genre/Downloads\Torrent
+2023-09-07 00:37:30 >> 
+--- Organizing complete! ---
+Files moved: 1
+Files deleted: 0
+Files renamed: 0
+Megabytes moved: 0.022003
+----------------------------
+2023-09-07 00:39:49 >> Folder path to be organized: C:/Users/Genre/Downloads
+2023-09-07 00:39:49 >> File already exists: rn_image_picker_lib_temp_aff2a46c-68a8-43c0-88f7-a8bfa4eb2f2b.jpg, renaming to rn_image_picker_lib_temp_aff2a46c-68a8-43c0-88f7-a8bfa4eb2f2b (1).jpg
+2023-09-07 00:39:49 >> Moved: rn_image_picker_lib_temp_aff2a46c-68a8-43c0-88f7-a8bfa4eb2f2b (1).jpg to C:/Users/Genre/Downloads\Images
+2023-09-07 00:39:49 >> 
+--- Organizing complete! ---
+Files moved: 1
+Files deleted: 0
+Files renamed: 1
+Megabytes moved: 0.630236
+----------------------------
